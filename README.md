@@ -20,7 +20,7 @@ Meu nome é **Celso Gustavo** e sou graduado em Matemática pela Universidade de
 
 ---
 
-## 🎯 Linguagens / Ferramentas / Tecnologias <br>
+## 💻 Tecnologias e Ferramentas <br>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="60" weight="60"/> &ensp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="60" weight="60"/> &ensp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="60" weight="80"/> &ensp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" height="50" weight="80"/>
 </p>
