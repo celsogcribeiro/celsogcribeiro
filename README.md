@@ -14,10 +14,10 @@ Faça uma breve apresentação sobre você e a sua stack.
 - 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
 <p align="left">
-  <a href="#" title="Gmail">
+  <a href="mailto:celsogcribeiro@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=celsogcribeiro@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[LINK-DO-SEU-LINKEDIN](https://www.linkedin.com/in/celso-gustavo/)" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/celso-gustavo/" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/celso-gustavo/]" alt="LinkedIn"/></a>
 </p>
 
 ## Linguagens e Ferramentas <br>
