@@ -6,8 +6,8 @@
 ---
 
 <a href="https://github.com/celsogcribeiro/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=celsogcribeiro&show_icons=true&theme=dracula" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=celsogcribeiro&show_icons=true&theme=dracula" />
 </a>
 <a href="https://github.com/celsogcribeiro/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celsogcribeiro&hide_progress=true&layout=compact&langs_count=8&card_width=240" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celsogcribeiro&hide_progress=true&layout=compact&langs_count=8&card_width=240" />
 </a>
