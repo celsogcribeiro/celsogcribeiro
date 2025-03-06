@@ -1,17 +1,14 @@
 <h1>Celso Gustavo</h1>
 
-Meu nome é Celso Gustavo Cavalcante Ribeiro. Sou XXX. Sou extremamente apaixonado por café, dominó e viagens.
+Meu nome é Celso Gustavo Cavalcante Ribeiro e sou graduado em Matemática pela Universidade de Brasília. Possuo Pós-Graduação em Gestão Pública, Governança de TI e Ciência de Dados.
 
-Faça uma breve apresentação sobre você e a sua stack.
+- 🤔 Atualmente exploro novas tecnologias e busco conhecimento na área de Dados.
+- 🎓 Estudando Banco de Dados (com ênfase em Data Analytics) - Segunda Graduação.
+- 💼 Trabalhando como Técnico Administrativo na Universidade de Brasília.
+- 🌱 Aprendendo mais sobre Desenvolvimento e SGBDs.
+- ☕ Fun fact: Sou extremamente apaixonado por café, dominó e viagens.
 
-🔭 Escreva algum projeto que você desenvolveu ou que atualmente esteja trabalhando nele.
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+<br>
 
 <p align="left">
   <a href="mailto:celsogcribeiro@gmail.com" title="Gmail">
