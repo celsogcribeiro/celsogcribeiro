@@ -1,5 +1,7 @@
 <h1>Celso Gustavo</h1>
 
+<img src="https://github.com/user-attachments/assets/59420418-4ed2-4c00-90ad-4126b09be0db" width="350" align="right">
+
 Meu nome é **Celso Gustavo** e sou graduado em Matemática pela Universidade de Brasília. Possuo Pós-Graduação em Gestão Pública, Governança de TI e Ciência de Dados.
 
 - 🤔 Atualmente exploro novas tecnologias e busco conhecimento na área de Dados.
