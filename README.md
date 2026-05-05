@@ -6,8 +6,8 @@ Meu nome é **Celso Gustavo** e sou graduado em Matemática pela Universidade de
 
 - 🤔 Atualmente exploro novas tecnologias e busco conhecimento na área de Dados.
 - 🎓 Estudando Banco de Dados (com ênfase em Data Analytics) - Segunda Graduação.
-- 💼 Trabalhando como Técnico Administrativo na Universidade de Brasília.
-- 🌱 Aprendendo mais sobre Desenvolvimento e SGBDs.
+- 💼 Trabalhando como Técnico Judiciário no Conselho da Justiça Federal - CJF.
+- 🌱 Aprendendo mais sobre Desenvolvimento, SGBDs, Contratações e Governança de TI.
 - ☕ Fun fact: Sou extremamente apaixonado por café, dominó e viagens.
 
 <br>
