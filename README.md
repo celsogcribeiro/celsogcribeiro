@@ -29,6 +29,3 @@ Meu nome é **Celso Gustavo** e sou graduado em Matemática pela Universidade de
 
 ---
 
-### 📊 GitHub Analytics
-
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=celsogcribeiro&show_icons=true&theme=catppuccin_mocha"/><img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=celsogcribeiro&hide_progress=true&layout=compact&langs_count=8&card_width=240&theme=catppuccin_mocha" />
